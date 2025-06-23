@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm an AI Explorer & Builder</h1>
 
-<!--
-**Priyo13o4/Priyo13o4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20&%20ML%20Engineer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi%20Projects-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django%20Developer-forestgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MT5%20Trader%20Bot-gold?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **CSE - AI & ML | Samsung Innovation Campus Scholar**  
+🚀 **Building**: Hybrid AI Trading Bots | Student Management Systems | Assistive Tech for the Visually Impaired  
+🔬 **Researching**: V2V/V2X networks, sentiment-aware algorithms, and real-time data analysis  
+🌐 **Tools I use**:  
+&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![n8n](https://img.shields.io/badge/-n8n-orange?style=flat&logo=n8n&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![MetaTrader](https://img.shields.io/badge/-MetaTrader%205-009688?style=flat&logo=meta&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi)
+
+---
+
+📈 **On a mission to bridge AI + Hardware + Markets**  
+💬 Always up to talk about projects, ideas, or collaborations!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyo13o4&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+🔗 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyodip-mukhopadhyay-13o4)
+
+---
