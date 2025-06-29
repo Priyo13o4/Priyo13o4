@@ -1,17 +1,11 @@
-<h1 align="center">Hey there 👋, I'm an AI Explorer & Builder</h1>
+<h1 align="center">Hey there 👋, I'm an AIML Student</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20&%20ML%20Engineer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi%20Projects-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Django%20Developer-forestgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MT5%20Trader%20Bot-gold?style=for-the-badge" />
-</p>
 
 ---
 
-🎓 **CSE - AI & ML | Samsung Innovation Campus Scholar**  
-🚀 **Building**: Hybrid AI Trading Bots | Student Management Systems | Assistive Tech for the Visually Impaired  
-🔬 **Researching**: V2V/V2X networks, sentiment-aware algorithms, and real-time data analysis  
+🎓 **CSE - AI & ML | Presidency University**  
+🚀 **Building**: AIML, Web Projects 
+ 
 🌐 **Tools I use**:
 
 &nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -28,11 +22,10 @@
 
 ---
 
-📈 **On a mission to bridge AI + Hardware + Markets**  
 💬 Always up to talk about projects, ideas, or collaborations!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyo13o4&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyo13o4&layout=compact&theme=radical" height="150" />
 </p>
 
