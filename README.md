@@ -13,7 +13,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;![n8n](https://img.shields.io/badge/-n8n-orange?style=flat&logo=n8n&logoColor=white)  
 &nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/-MetaTrader%205-009688?style=flat&logo=meta&logoColor=white)  
 &nbsp;&nbsp;&nbsp;&nbsp;![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi)
-&nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)  
 &nbsp;&nbsp;&nbsp;&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 &nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 &nbsp;&nbsp;&nbsp;&nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
